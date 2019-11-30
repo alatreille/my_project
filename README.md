@@ -14,8 +14,8 @@ I would like to use what I learned in this "Research Computing" class to better 
 
 For this project, I would like to use 3 types of data: 
 - the data relating to the submarine cables that can be downloaded from this [Github page](https://github.com/telegeography/www.submarinecablemap.com): official submarine cable system name, ready for service date (RFS), cable system length in kilometers, owners of the system, oficial URL of the system, landing points.
-- the data relating to natural hazards: [submarine volcanoes](https://www.ngdc.noaa.gov/nndc/struts/results?type_0=Like&query_0=&op_8=eq&v_8=&type_10=EXACT&query_10=None+Selected&le_2=&ge_3=&le_3=&ge_2=&op_5=eq&v_5=&op_6=eq&v_6=&op_7=eq&v_7=&t=102557&s=5&d=5), [earthquakes](http://www.ldeo.columbia.edu/~rpa/usgs_earthquakes_2014.csv).
-- the data relating to human activities: [shipping traffic](https://pypi.org/project/Marine-Traffic-API/#files).
+- the data relating to natural hazards: [submarine volcanoes](https://www.ngdc.noaa.gov/nndc/struts/results?type_0=Like&query_0=&op_8=eq&v_8=&type_10=EXACT&query_10=None+Selected&le_2=&ge_3=&le_3=&ge_2=&op_5=eq&v_5=&op_6=eq&v_6=&op_7=eq&v_7=&t=102557&s=5&d=5), [earthquakes](https://data.humdata.org/dataset/catalog-of-earthquakes1970-2014).
+- the data relating to human activities: [fishing effort](https://github.com/GlobalFishingWatch/paper-global-footprint-of-fisheries).
 
 ## My analysis
 
