@@ -26,3 +26,5 @@ My analysis will consist of graphs and maps:
 - volcano map + map overlaying volcanoes and cables
 - maritime traffic map + map overlaying maritime traffic and cables
 - map of vulnerable cables
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alatreille/my_project/master) 
